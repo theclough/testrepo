@@ -1,5 +1,6 @@
+Clough
 APPM 4600 : Numerical Methods and Scientific Computing
-Tyler Clough - ReadMe File
+ReadMe File
 ======================================================
 
 This repository contains all related assignments for APPM 4600, Fall 23'.
