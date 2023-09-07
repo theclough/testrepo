@@ -12,6 +12,7 @@ def driver():
     return
 
 def exerciseOne():
+# code for exercise 1
     
     n = 10
     x = np.linspace(0,10,n)
@@ -31,6 +32,7 @@ def exerciseOne():
     return
 
 def exerciseTwo_Three():
+# code for exercises 2 and 3
     
     # Dot Product Test with np.dot()
     print(dotProduct([1,2,3,4,5],[5,4,3,2,1],5) == np.dot([1,2,3,4,5],[5,4,3,2,1]))
